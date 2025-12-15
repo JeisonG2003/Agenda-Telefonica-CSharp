@@ -21,6 +21,6 @@ Con este proyecto se demuestra el uso práctico de la POO en C#, así como la co
 
 ## **Autores**
 
-**Garcia Arreaga Jeison Teobaldo **
+**Garcia Arreaga Jeison Teobaldo**
 
 **Cornejo Olaya Lissi Antonella**
