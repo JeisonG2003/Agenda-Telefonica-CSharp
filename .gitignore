@@ -1,0 +1,16 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Archivos compilados
+*.exe
+*.dll
+*.pdb
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
